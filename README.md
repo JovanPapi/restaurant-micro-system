@@ -14,4 +14,8 @@ https://github.com/JovanPapi/krusevska-odaja-internal-work
 
 https://github.com/JovanPapi/krusevska-odaja-backend
 
+## Notice 
+
+Dont forget to read README files in the project separately, they have instructions of how to use each of the projects.
+
 Enjoy my creativity ^_^

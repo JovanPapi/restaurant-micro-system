@@ -9,7 +9,9 @@ It contains all three individual application in one remote repository, easier to
 Here is the link of the separate remote repos for the projects:
 
 https://github.com/JovanPapi/krusevska-odaja-web-site
+
 https://github.com/JovanPapi/krusevska-odaja-internal-work
+
 https://github.com/JovanPapi/krusevska-odaja-backend
 
 Enjoy my creativity ^_^
